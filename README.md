@@ -8,6 +8,7 @@ The project for this course contains two parts:
 
 
 1) Simplified TCP sender/receiver
+
 ● Sending packets to the network based on a fixed sending window size (e.g. WND of 10
 packets)
 
@@ -18,6 +19,7 @@ receiving ACKs at the sender
 
 
 2) TCP Congestin Control
+
 ● Slow-start
 
 ● Congestion avoidance
