@@ -14,7 +14,7 @@ packets)
 receiving ACKs at the sender
 
 ● A timeout mechanism to deal with packet loss and retransmission
-<br/><br/>
+<br/><br/><br/>
 2) TCP Congestin Control
 
 ● Slow-start
@@ -22,5 +22,5 @@ receiving ACKs at the sender
 ● Congestion avoidance
 
 ● Fast retransmit (no fast recovery)
-<br/><br/>
+<br/><br/><br/>
 The TCP implementation was run on a Mahimahi server.
