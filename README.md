@@ -7,6 +7,7 @@ The project for this course contains two parts:
 2. TCP Congestin Control
 
 
+
 1) Simplified TCP sender/receiver
 
 ● Sending packets to the network based on a fixed sending window size (e.g. WND of 10
@@ -18,6 +19,7 @@ receiving ACKs at the sender
 ● A timeout mechanism to deal with packet loss and retransmission
 
 
+
 2) TCP Congestin Control
 
 ● Slow-start
@@ -25,5 +27,8 @@ receiving ACKs at the sender
 ● Congestion avoidance
 
 ● Fast retransmit (no fast recovery)
+
+
+
 
 The TCP implementation was run on a Mahimahi server.
