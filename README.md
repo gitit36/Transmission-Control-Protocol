@@ -5,7 +5,7 @@ The project for this course contains two parts:
 1. Simplified TCP sender/receiver
 2. TCP Congestin Control
 <br/><br/>
-1) Simplified TCP sender/receiver
+**Simplified TCP sender/receiver**
 
 ● Sending packets to the network based on a fixed sending window size (e.g. WND of 10
 packets)
@@ -15,7 +15,7 @@ receiving ACKs at the sender
 
 ● A timeout mechanism to deal with packet loss and retransmission
 <br/><br/><br/>
-2) TCP Congestin Control
+**TCP Congestin Control**
 
 ● Slow-start
 
